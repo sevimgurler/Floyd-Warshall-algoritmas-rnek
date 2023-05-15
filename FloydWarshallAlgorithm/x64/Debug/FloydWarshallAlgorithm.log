@@ -1,0 +1,3 @@
+﻿  FloydWarshallalgorithm.cpp
+C:\Users\sevim\source\repos\FloydWarshallAlgorithm\FloydWarshallalgorithm.cpp(39,15): warning C4244: 'bağımsız değişken': 'time_t' - 'unsigned int' dönüşümü; veri kaybı olabilir
+  FloydWarshallAlgorithm.vcxproj -> C:\Users\sevim\source\repos\FloydWarshallAlgorithm\x64\Debug\FloydWarshallAlgorithm.exe
